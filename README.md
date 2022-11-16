@@ -1,2 +1,19 @@
-# C-Standard-Library-Functions-
-Rewrote and tested various functions found in C's Standard Library 
+# C-Standard-Library-Functions
+
+Reimplementation and test suite for 13 functions contained withtin the C standard Library:
+
+StrLen
+StrCmp
+StrNcmp
+StrCasecmp
+StrCpy
+StrNcpy
+StrChr
+StrDup
+StrCat
+StrNcat
+StrStr
+StrSpn
+StrTok
+
+
